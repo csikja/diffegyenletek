@@ -1,0 +1,2 @@
+# diffegyenletek
+Differenciálegyenletek
